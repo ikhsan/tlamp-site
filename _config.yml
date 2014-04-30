@@ -1,0 +1,5 @@
+name: tlamp
+markdown: redcarpet
+pygments: true
+
+exclude: ["README.md", "CNAME", "LICENSE"]
