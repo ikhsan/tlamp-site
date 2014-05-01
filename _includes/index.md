@@ -153,20 +153,13 @@ Feel free to contact me, on [@ixnixnixn](http://twitter.com/ixnixnixn) or [ikhsa
 Ethnic-INA Indonesian Ethnic Musical Instrument Store: [Website](http://www.ethnic-ina.web.id) (currently offline), [Facebook Page](https://www.facebook.com/ethnic.music.store)
 
 ###References
-\[1] Ahmed, Murad, "Guitar Hero Leads Children to Pick up Real Instruments", 2008 <[http://www.thetimes.co.uk/tto/technology/article1862082.ece](http://www.thetimes.co.uk/tto/technology/article1862082.ece)> [accessed 20 April 2014]
 
-\[2] Donora, Adhari, "Suara Diatas Lang Gulang (*Sounds from above Lang Gulang*)" (Indonesia, 2013) <[https://vimeo.com/53866898](https://vimeo.com/53866898)> [accessed 24 February 2014]
-
-\[3] Kartomi, Margaret J, "Sumatra", in The Garland Handbook of Southeast Asian Music, ed. by Terry A. Miller and Sean Williams (New York: Routledge, 2008)
-
-\[4] Kuffner, Taylor, "Gamelatron Project: The Marriage of Indonesian Sonic and Ritual Tradition with Modern Robotics", <[http://gamelatron.com](http://gamelatron.com)> [accessed 24 October 2013]
-
-\[5] Missingham, Andrew, "Why Console-Games are Bigger than Rock 'n' Roll: What the Music Sector Needs to Know and How it can get a Piece of the Action", Youth Music, 2007
-
-\[6] Pardue, Laurel S., and others, "Gamelan Elektrika: An Electronic Balinese Gamelan", *Proceedings of the International Conference on New Interfaces for Musical Expression*, 2011, 18-23
-
-\[7] Russell-Bowie, Deirdre, MMADD about the Arts: An Introduction to Primary Arts Education, Second Edition (Pearson Education Australia, 2009), p. 54
-
-\[8] Stanley, Timothy Daryl and David Calvo, "Rhythm Learning with Electronic Simulation", *In Proceedings of the 10th ACM conference on SIG-information technology education (SIGITE '09)*, 2009, 24-28
-
+\[1] Ahmed, Murad, "Guitar Hero Leads Children to Pick up Real Instruments", 2008 <[http://www.thetimes.co.uk/tto/technology/article1862082.ece](http://www.thetimes.co.uk/tto/technology/article1862082.ece)> [accessed 20 April 2014] <br />
+\[2] Donora, Adhari, "Suara Diatas Lang Gulang (*Sounds from above Lang Gulang*)" (Indonesia, 2013) <[https://vimeo.com/53866898](https://vimeo.com/53866898)> [accessed 24 February 2014] <br />
+\[3] Kartomi, Margaret J, "Sumatra", in The Garland Handbook of Southeast Asian Music, ed. by Terry A. Miller and Sean Williams (New York: Routledge, 2008) <br />
+\[4] Kuffner, Taylor, "Gamelatron Project: The Marriage of Indonesian Sonic and Ritual Tradition with Modern Robotics", <[http://gamelatron.com](http://gamelatron.com)> [accessed 24 October 2013] <br />
+\[5] Missingham, Andrew, "Why Console-Games are Bigger than Rock 'n' Roll: What the Music Sector Needs to Know and How it can get a Piece of the Action", Youth Music, 2007 <br />
+\[6] Pardue, Laurel S., and others, "Gamelan Elektrika: An Electronic Balinese Gamelan", *Proceedings of the International Conference on New Interfaces for Musical Expression*, 2011, 18-23 <br />
+\[7] Russell-Bowie, Deirdre, MMADD about the Arts: An Introduction to Primary Arts Education, Second Edition (Pearson Education Australia, 2009), p. 54 <br />
+\[8] Stanley, Timothy Daryl and David Calvo, "Rhythm Learning with Electronic Simulation", *In Proceedings of the 10th ACM conference on SIG-information technology education (SIGITE '09)*, 2009, 24-28 <br />
 \[9] Wiriadjaja, Antonius Oktaviano, "Gamelan Sampul: Laptop Sleeve Gamelan", *Proceedings of the International Conference on New Interfaces for Musical Expression*, 2013, 469-470
