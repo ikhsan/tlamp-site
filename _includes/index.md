@@ -29,7 +29,7 @@ Talempong is an instrument, an ensemble and a type of music. Originated from Wes
 
 There are two ways of playing Talempong; stationary (*duduak*) and standing (*pacik*). The first way is pretty much the same to Gamelan, the player sits on the floor and hit each gongs with a mallet. The other way is to hold one or two gongs with one hand, and the other hand hit the gongs with a mallet. For this study, we will only investigate the latter. 
 
-<ul class="small-block-grid-1 large-block-grid-2">
+<ul class="large-block-grid-2">
 	<li /><img src="/assets/talempong.jpg" />
 	<li /><img src="/assets/talempong_pacik.jpg" />
 </ul>
@@ -60,20 +60,26 @@ Leading from those aspects, software could be a great option for answering those
 ####Gamelan Elektrika
 {: .center}
 
+#####[link](http://www.galaktika.org/elektrika.html) - [video](http://vimeo.com/26803278) - [paper](http://www.nime.org/proceedings/2011/nime2011_018.pdf)
+{: .center}
+
 <div class="row">
   <div class="small-8 large-6 small-centered large-centered columns">
-	  <img src="/assets/gamelan_elektrika.png" />
+	  <img src="/assets/gamelan_elektrika.png" class="project"/>
   </div>
 </div>
 
 Gamelan Elektrika is the first electric Gamelan that imitates the Balinese Gamelan instruments. It acts as a MIDI controller which is used for playing and transcribing Gamelan composition \[6].
 
-####Gamelan Sampul
+####Gamelan Sampul 
+{: .center}
+
+#####[link](http://work.antoni.us/Gamelan-Sampul) - [video](http://vimeo.com/43327034)
 {: .center}
 
 <div class="row">
   <div class="small-8 large-6 small-centered large-centered columns">
-	  <img src="/assets/gamelan_sampul.png" />
+	  <img src="/assets/gamelan_sampul.png" class="project"/>
   </div>
 </div>
 
@@ -82,9 +88,12 @@ Having the similar concept as Gamelan Elektrika, Gamelan Sampul squeezes Gamelan
 ####Gamelatron
 {: .center}
 
+#####[link](http://http://gamelatron.com) - [video](http://gamelatron.com/video.php)
+{: .center}
+
 <div class="row">
   <div class="small-8 large-6 small-centered large-centered columns">
-	  <img src="/assets/gamelatron.jpg" />
+	  <img src="/assets/gamelatron.jpg" class="project"/>
   </div>
 </div>
 
