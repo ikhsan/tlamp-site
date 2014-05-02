@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Muli:300|Nunito:300);
+
+body {
+	font-family: 'Nunito', sans-serif;
+	font-weight: 300;
+	background: #1A1A1A;
+	color: #FAFAFA;
+	letter-spacing: 0.01em;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: 'Muli', sans-serif;
+	font-weight: 300;
+	color: #FFF;
+	text-transform: uppercase;
+	letter-spacing: .25em;
+}
+
+h3 {
+	margin-top: 1.5em;
+	color: #46D8FB;
+}
+
+.title {
+	text-align: center;
+	margin: 1.5em 0 .5em;
+	letter-spacing: .3em;
+}
+
+.author {
+	color: #46D8FB;
+	text-align: center;	
+	margin: 0 0 .2em;
+	letter-spacing: .15em;
+}
+
+.center {
+	text-align: center;
+}
+
+img.project {
+	margin-bottom: 2em;
+}
+
+blockquote, blockquote p {
+	color: #C7C7C7;
+}
+
+@media only screen and (max-width: 40em) { 
+	h1, h2, h3, h4, h5, h6 {
+		letter-spacing: .15em;
+	}
+	
+	.author {
+		letter-spacing: .1em;
+	}
+	
+	.ribbon {
+		color: #202020;
+		background: #FFF;
+		padding: 8px 4px;
+		text-align: center;
+		font-size: 10px;
+		font-weight: bold;		
+	}	
+}
+
+
+

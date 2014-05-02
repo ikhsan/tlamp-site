@@ -1,29 +1,42 @@
 ## The Talempong Experience: Translating Tradition to the Digital Context
+{: .title}
 
+######Muhammad Ikhsan Assaat
+{: .author}
 
-This website describes the background, the motivation and the creation of Tlamp! project. Tlamp! is an interactive music software that helps its user to learn and play an Indonesian musical instrument, [**Talempong**](http://en.wikipedia.org/wiki/Talempong). This study will also review past related works and how music software can be brought into the musical tradition's realm.
+######MMus Music Technology and Computer Music
+{: .author .no-uppercase}
+
+######University of Leeds
+{: .author .no-uppercase}
+
+<br />
+
+####Abstract
+
+This website describes the background, the motivation and the creation of **Tlamp!** project. Tlamp! is an interactive music software that helps its user to learn and play an Indonesian musical instrument, [Talempong](http://en.wikipedia.org/wiki/Talempong). This study will also review past related works and how music software can be brought into the musical tradition's realm.
 
 Numerous literatures argues about how effective software games teach its players to learn a musical instrument. The premise is that a software can teach basic skills that are transferable to the real instrument. Based on that premise, Tlamp! was built to conduct a simple experiment. It would explore how far could Tlamp! help to introduce traditional music to a broader audience.
 
 #####Keywords
 
-Talempong, rhythm based game, percussion ensemble
+Talempong, rhythm based game, percussion ensemble, West Sumatra
 
 
 ###What is Talempong?
 
-Talempong is an instrument, an ensemble and a type of music. Originated from West Sumatra, Talempong is still being used for occasions such as weddings, party for welcoming important guests or accompanying traditional dances or plays.
-
-The form of Talempong resembles Gamelan's Bonang. It is a small kettle gong that has a boss in its centre. One Talempong's characteristic that differs to Bonang is its material. Talempong has shorter sustain to allow its players to play fast interlocking patterns \[3].
-
-<ul class="small-block-grid-2">
-  <li /><img src="/assets/talempong_pacik.jpg" />
-  <li /><img src="/assets/talempong.jpg" />
-</ul>
+Talempong is an instrument, an ensemble and a type of music. Originated from West Sumatra, Talempong is still being used for occasions such as weddings, party for welcoming important guests or accompanying traditional dances or plays. It forms a small kettle gong that has a boss in its centre. Talempong has a short sustain which allows its players to play fast interlocking patterns \[3].
 
 There are two ways of playing Talempong; stationary (*duduak*) and standing (*pacik*). The first way is pretty much the same to Gamelan, the player sits on the floor and hit each gongs with a mallet. The other way is to hold one or two gongs with one hand, and the other hand hit the gongs with a mallet. For this study, we will only investigate the latter. 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/VEmX-1_DQPA?rel=0" frameborder="0" allowfullscreen></iframe>
+<ul class="small-block-grid-1 large-block-grid-2">
+	<li /><img src="/assets/talempong.jpg" />
+	<li /><img src="/assets/talempong_pacik.jpg" />
+</ul>
+
+<div class="flex-video">
+	<iframe width="560" height="315" src="//www.youtube.com/embed/VEmX-1_DQPA?rel=0" frameborder="0" allowfullscreen></iframe>	
+</div>
 
 ###Background
 
@@ -40,25 +53,26 @@ Learning from the Gondang Opung's case, there should be initiative in order to p
 - Lack of documentation
 - Limited scope of exposure
 
-Leading from those aspects, software could be a great option for answering those points above. It is important to find past research or related works on technologies that might help the growth Indonesian music tradition.
-
 ###Related Works
 
+Leading from those aspects, software could be a great option for answering those points above. It is important to find past research or related works on technologies that might help the growth Indonesian music tradition.
+
 ####Gamelan Elektrika
+{: .center}
 
 <div class="row">
-  <div class="small-6 large-centered columns">
+  <div class="small-8 large-6 small-centered large-centered columns">
 	  <img src="/assets/gamelan_elektrika.png" />
   </div>
 </div>
 
-
 Gamelan Elektrika is the first electric Gamelan that imitates the Balinese Gamelan instruments. It acts as a MIDI controller which is used for playing and transcribing Gamelan composition \[6].
 
 ####Gamelan Sampul
+{: .center}
 
 <div class="row">
-  <div class="small-6 large-centered columns">
+  <div class="small-8 large-6 small-centered large-centered columns">
 	  <img src="/assets/gamelan_sampul.png" />
   </div>
 </div>
@@ -66,9 +80,10 @@ Gamelan Elektrika is the first electric Gamelan that imitates the Balinese Gamel
 Having the similar concept as Gamelan Elektrika, Gamelan Sampul squeezes Gamelan instrument to the point that it is portable. It imitates Gamelan's bonang, which has ten notes that is sticked to a Batik fabric. The fabric also acts a laptop sleeve \[9].
 
 ####Gamelatron
+{: .center}
 
 <div class="row">
-  <div class="small-6 large-centered columns">
+  <div class="small-8 large-6 small-centered large-centered columns">
 	  <img src="/assets/gamelatron.jpg" />
   </div>
 </div>
@@ -103,7 +118,7 @@ Why software?
 ####Meet Tlamp!
 
 <div class="row">
-  <div class="small-8 large-centered columns">
+  <div class="small-8 large-6 small-centered large-centered columns">
 	  <img src="/assets/tlamp.png" />
   </div>
 </div>
@@ -111,7 +126,7 @@ Why software?
 **Tlamp! (v0.2)** is a tool to engage its user to learn and play traditional music. It is a ryhthm-based game that uses xbox controller to play the notes. It is played by two players who is responsible for two notes each.
 
 #####Features
-- Familiar interface (Youth Music have surveyed from 1,163 respondents, 51% have played music-based console games) \[5]
+- Familiar interface (Youth Music reported that 51% from 1,163 respondents have played music-based console games) \[5]
 - Simulate Talempong patterns using xbox drum controller
 - Guides and reponds to a hit note
 
@@ -129,7 +144,7 @@ Why software?
 
 **Tlamp! v0.2 (Alpha)**
 
-Review and Fork the code at : [github](https://github.com/ixnixnixn/Tlamp)
+Chekc and/or fork the code at : [github](https://github.com/ixnixnixn/Tlamp)
 
 Download: [zip](https://github.com/ixnixnixn/Tlamp/archive/0.2.zip), [tar.gz](https://github.com/ixnixnixn/Tlamp/archive/0.2.tar.gz)
 
@@ -145,7 +160,7 @@ See [License](https://github.com/ixnixnixn/Tlamp/blob/master/License) for more d
 
 Tlamp! was created by Ikhsan Assaat. 
 
-Feel free to contact me, on [@ixnixnixn](http://twitter.com/ixnixnixn) or [ikhsan.assaat@gmail.com](mailto:ikhsan.assaat@gmail.com)
+Feel free to contact me at [@ixnixnixn](http://twitter.com/ixnixnixn) or [ikhsan.assaat@gmail.com](mailto:ikhsan.assaat@gmail.com)
 
 
 **Talempong Shop Link**
