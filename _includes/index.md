@@ -60,7 +60,7 @@ Leading from those aspects, software could be a great option for answering those
 ####Gamelan Elektrika
 {: .center}
 
-#####[link](http://www.galaktika.org/elektrika.html) - [video](http://vimeo.com/26803278) - [paper](http://www.nime.org/proceedings/2011/nime2011_018.pdf)
+######[link](http://www.galaktika.org/elektrika.html) - [video](http://vimeo.com/26803278) - [paper](http://www.nime.org/proceedings/2011/nime2011_018.pdf)
 {: .center}
 
 <div class="row">
@@ -74,7 +74,7 @@ Gamelan Elektrika is the first electric Gamelan that imitates the Balinese Gamel
 ####Gamelan Sampul 
 {: .center}
 
-#####[link](http://work.antoni.us/Gamelan-Sampul) - [video](http://vimeo.com/43327034)
+######[link](http://work.antoni.us/Gamelan-Sampul) - [video](http://vimeo.com/43327034)
 {: .center}
 
 <div class="row">
@@ -88,7 +88,7 @@ Having the similar concept as Gamelan Elektrika, Gamelan Sampul squeezes Gamelan
 ####Gamelatron
 {: .center}
 
-#####[link](http://http://gamelatron.com) - [video](http://gamelatron.com/video.php)
+######[link](http://http://gamelatron.com) - [video](http://gamelatron.com/video.php)
 {: .center}
 
 <div class="row">
