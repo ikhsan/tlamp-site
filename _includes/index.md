@@ -49,9 +49,9 @@ Gondang Opung is one of the variants of Talempong music which comes from Gema Vi
 
 Learning from the Gondang Opung's case, there should be initiative in order to prevent other tradition from extinction. These are the things that might contribute to Gondang Opung's current condition;
 
-- Decreasing interest from the young people
-- Lack of documentation
-- Limited scope of exposure
+- Decreasing <ins>interest</ins> from the young people
+- Lack of <ins>documentation</ins>
+- Limited <ins>accessibility</ins>
 
 ###Related Works
 
@@ -119,9 +119,9 @@ Why software?
 
 	Software has to live inside a storage. Whether it is in the personal computer or in a cloud server, software always be in a tangible form. This characteristic can act as a form of documentation.
 
-- Ubiquitous means higher exposure
+- Ubiquitous means higher accessibility
 
-	Digital data has these advantages of from great infrastructure, which will give its user an ease of distribution. Once it is uploaded, everyone from anywhere in the world could have an access to the data. Video game, as one of the digital form, has the potential to be accessed by people from low socio-economic backgrounds for music and music education purposes \[5].
+	Digital data has these advantages from great infrastructures, which will give its users easier distribution. Once it is uploaded, everyone from anywhere in the world have the access to the data. Video game, as one of the digital form, has the potential to be accessed by people from low socio-economic backgrounds for music and education purposes \[5].
 
 
 ####Meet Tlamp!
