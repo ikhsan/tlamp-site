@@ -153,9 +153,9 @@ Why software?
 
 **Tlamp! v0.2 (Alpha)**
 
-Chekc and/or fork the code at : [github](https://github.com/ixnixnixn/Tlamp)
+Check and/or fork the code at : [github](https://github.com/ixnixnixn/Tlamp)
 
-Download: [zip](https://github.com/ixnixnixn/Tlamp/archive/0.2.zip), [tar.gz](https://github.com/ixnixnixn/Tlamp/archive/0.2.tar.gz)
+Download: [releases](https://github.com/ixnixnixn/Tlamp/releases)
 
 
 ####License
